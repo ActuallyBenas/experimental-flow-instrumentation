@@ -47,17 +47,12 @@ One important limitation was that a Pitot-static tube measured **centerline velo
 
 The team also encountered unreliable readings from an initial workbench setup and restored usable measurements by switching to another bench. Additional uncertainty sources included probe alignment, transducer calibration drift, tubing condition, instrumentation resolution, and geometric measurements.
 
-## My contributions
-
-**[Add 2–3 truthful statements about what you personally handled: transducer calibration, LabVIEW setup, measurements, Excel calculations, troubleshooting, figures, or writing. Do not present team results as work you did alone.]**
-
 ## Possible extensions
 
 - Perform repeated measurements at each location to estimate run-to-run variability.
 - Traverse the Pitot probe across the duct's cross section to estimate mean velocity more accurately.
 - Compare measured pressure loss with a numerical model, keeping modeling assumptions explicit.
 
-## Team and source
 
 ### My Contributions
 
