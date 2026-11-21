@@ -59,6 +59,14 @@ The team also encountered unreliable readings from an initial workbench setup an
 
 ## Team and source
 
-This portfolio summary is based on the original **“Bernoulli Principle — Experiment 5”** course report, submitted July 23, 2026, by **Benas Pundzius, Jean-Claude Dubarry, Leo Garcia Gamez, and Justin Huynh** (team 5, EML 3033C). The charts and LabVIEW images in the linked case study are reproduced from that team report.
+### My Contributions
 
-All numerical findings refer to **this academic experiment**, not a certified instrument calibration or professionally validated system design.
+This was a four-person team project completed during the Summer 2026 semester as part of UCF's Mechanical Engineering Measurements Laboratory.
+
+My contributions included:
+
+- **Experimental Setup and Instrumentation:** Assisted with setting up the converging-diverging duct experiment, connecting pressure transducers, and positioning the Pitot-static tube to measure airflow properties.
+- **Sensor Calibration:** Participated in calibrating two differential pressure transducers and evaluating voltage-pressure relationships using linear regression.
+- **Data Collection and Troubleshooting:** Assisted with collecting static and dynamic pressure measurements using LabVIEW and troubleshooting equipment issues to obtain reliable experimental data.
+- **Engineering Analysis:** Analyzed experimental measurements using Bernoulli's equation and continuity principles to determine airflow velocity, mass flow rate, and pressure variations.
+- **Technical Documentation:** Contributed to preparing the final laboratory report, including experimental results, graphs, uncertainty analysis, and engineering conclusions.
